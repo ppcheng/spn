@@ -1,0 +1,7 @@
+*.pyc
+
+.vscode/
+
+data/
+logs/
+embedding/
